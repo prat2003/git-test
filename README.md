@@ -1,4 +1,2 @@
 # git-test
-mommy
-Hello Odin!
-i messed up 
+What are you doing here?
